@@ -1,3 +1,10 @@
+/*
+  DESCRIPTION FOR THIS CODE CAN BE VIEWED AT MY GITHUB REPOSITORY
+  Link: https://github.com/sportole/comp1000
+  Programmed by: Sushant Gurung
+  Std_ID: 49036114
+*/
+
 Owl coolOwl;
 Background bg;
 
