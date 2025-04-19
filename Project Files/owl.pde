@@ -3,7 +3,6 @@ class Owl {
   float velocityX, velocityY;  // vertical and horizontal velocity
   boolean isHopping = false;
   float flapTimer = 0;  // flapping wings
-  float blinkTimer = 0;  // blinks eyes
   float sizeFactor;  // size of owl
   int lookDirection = 0;  // -1 for left, 1 for right, 0 for center
 
