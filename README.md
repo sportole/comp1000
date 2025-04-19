@@ -15,21 +15,21 @@ This project is a part of COMP1000 unit assessment. The program is a simple anim
 - `Left Arrow`: Move left
 - `Right Arrow`: Move right
 - `Mouse Press`: Background changes
-
-## Built With
-
-[Processing](https://processing.org/) (Java-based IDE for visual arts and interactive programs)
-
-## Coding Guidelines
-
-This code was written by adhering to the [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
-
-## Reference
-
-Credits to [this Processing forum thread](https://forum.processing.org/two/discussion/18548/need-help-with-making-character-jump-in-small-game.html) for guidance on implementing hopping animations.
-
+ 
 ## How to Run
 
 1. Download or clone this repo.
 2. Open the `.pde` file in the [Processing IDE](https://processing.org/download/).
 3. Click `Run`.
+
+## Coding Guidelines
+
+This code was written by adhering to the [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+
+## Built With
+
+[Processing](https://processing.org/) (Java-based IDE for visual arts and interactive programs)
+
+## Reference
+
+Credits to [this Processing forum thread](https://forum.processing.org/two/discussion/18548/need-help-with-making-character-jump-in-small-game.html) for guidance on implementing hopping animations.
