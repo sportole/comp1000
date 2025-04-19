@@ -21,3 +21,8 @@ void keyPressed(){
 void keyReleased(){
   coolOwl.keyReleased();
 }
+
+
+void mousePressed() {
+  bg.changeColor();
+}
