@@ -18,6 +18,7 @@ This project is a part of COMP1000 unit assessment. The program is a simple anim
 - `Spacebar`: Owl hops
 - `Left Arrow`: Move left
 - `Right Arrow`: Move right
+- `Mouse Press`: Background changes
 
 <br>
 
