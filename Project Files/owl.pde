@@ -116,7 +116,7 @@ class Owl {
       lookDirection = -1;  // look left
     } else if (keyCode == RIGHT) {
       velocityX = 3;  // move right
-      lookDirection = 1;  // lool right
+      lookDirection = 1;  // look right
     }
   }
 
@@ -126,4 +126,4 @@ class Owl {
       lookDirection = 0;
     }
   }
-}
+}   
